@@ -3,7 +3,7 @@
 <div align=center>
   
   ### 🌱 Yoo Jimin 🌱
-  💻 <strong>working on soongsil univ. CSE student <br>
+  💻 <strong>Soongsil univ. CSE student <br>
   🌱 <strong>learning WEB/APP front-end & back-end + UI/UX design + system programming <br>
   🦁 <strong>studying at soongsil univ. LIKELION 9th <br>
   📚 <strong>GDSC Soongsil 1st WEB/MOBILE <br>
