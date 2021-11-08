@@ -36,7 +36,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-jimin127)](https://github.com/yoo-jimin127/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-jimin127&layout=compact&theme=dracula)](https://github.com/metleeha)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwlals9936)](https://solved.ac/dbwlals9936/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/dbwlals9936/)
 
 </div>
 
