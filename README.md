@@ -6,7 +6,7 @@
   🌱 learning WEB/APP front-end & back-end + UI/UX design + system programming <br>
   🦁 Soongsil univ. LIKELION 9th Member <br>
   🦁 Soongsil univ. LIKELION 10th management team <br>
-  📚 GDSC Soongsil 1st WEB/MOBILE part <br>
+  📚 GDSC Soongsil 1st WEB/MOBILE Part member <br>
   <br><br>
 
    ### 🔨 Tech Stack 🔨
