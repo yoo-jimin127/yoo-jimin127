@@ -7,7 +7,7 @@
   🦁 Soongsil univ. LIKELION 9th Member <br>
   🦁 Soongsil univ. LIKELION 10th management team <br>
   📚 GDSC Soongsil 1st WEB/MOBILE Part member <br>
-  <br><br>
+  <br>
 
    ### 🔨 Tech Stack 🔨
    #### Languages & Tools that I used ...
@@ -36,9 +36,10 @@
   
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-jimin127)](https://github.com/yoo-jimin127/github-readme-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-jimin127&layout=compact&theme=dracula)](https://github.com/metleeha)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwlals9936)](https://solved.ac/dbwlals9936/)
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127)
+
 
 </div>
 
