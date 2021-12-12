@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<div align=center>  
   
   ### 🌱 Yoo Jimin 🌱
   💻 Soongsil univ. CSE student <br>
@@ -36,10 +35,10 @@
   
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-jimin127)](https://github.com/yoo-jimin127/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-jimin127&layout=compact&theme=dracula)](https://github.com/metleeha)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127)
-
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-jimin127&layout=compact&theme=dracula)](https://github.com/metleeha)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwlals9936)](https://solved.ac/dbwlals9936/)
+  
 </div>
 
