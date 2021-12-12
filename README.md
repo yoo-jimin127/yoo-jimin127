@@ -13,6 +13,7 @@
    #### Languages & Tools that I used ...
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c++&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>
   <br>
@@ -20,7 +21,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Spring-20c997?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-1DF5F5?style=flat-square&logo=React&logoColor=white"/></a>
