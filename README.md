@@ -49,8 +49,8 @@
   <img src="https://img.shields.io/badge/AdobeXD-9ACD32?style=flat-square&logo=AdobeXD&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Spring-4682B4?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-1DF5F5?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-66CDAA?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-B22222?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <br><br>
