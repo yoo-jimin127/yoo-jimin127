@@ -8,13 +8,11 @@
   I hope that a more convenient world will be created from there. <br>
   <br><br>
 
-  
   ### 💻 I belong to ... 💻
   🦁 Soongsil univ. LIKELION 9th Member (2021.03 - 2021.12) <br>
   🦁 Soongsil univ. LIKELION 10th management team & Front-end development team leader (2022.01 - 2022.12) <br>
   📚 Google Developer Student Club Soongsil 1st WEB/MOBILE Part member (2021.09 - 2022.08) <br>
   <br><br>
-  
   
   ### 🎨 Participating in the project 🎨
   - 딥러닝 기반 패션 정보 검색 웹서비스 '이 옷 어디?' UI/UX 디자인 & Front-end 개발 (2021.12)
@@ -27,7 +25,6 @@
   - 위치 기반 혼밥 메이트 매칭 Android App 서비스 '같잉 함께하SSU' 기획 & UI/UX 디자인 & 개발 (2020.10)
   <br><br>
 
-
   ### 🏆 Winning an award 🏆
  - 제 5회 정부혁신제안 끝장개발대회 우수상(정부혁신전략추진단장상) 수상 (2021.06)
  - 숭실대학교 IT대학 컴퓨터학부 소프트웨어 공모전 학장상 수상 (2021.09)
@@ -36,7 +33,6 @@
  - 숭실대학교 총학생회 멘토링 우수 멘토 (2021.1)
  - 숭실대학교 융합특성화자유전공학부 IT대학 전공멘토링 우수 멘토 (2021.2)
  <br><br>
-    
     
  ### 🔨 Tech Stack 🔨
    #### Languages & Tools that I used ...
@@ -58,7 +54,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-B22222?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <br><br>
-  
   
   ### 🌟 PortFolio 🌟
   #### [유지민의 노션 바로가기]()
