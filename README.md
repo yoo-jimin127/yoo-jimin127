@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=React&logoColor=white"/></a><br>
-  **UX/UI Design :**
+  **UI/UX Design :**
   <img src="https://img.shields.io/badge/Figma-DC143C?style=flat-square&logo=Figma&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AdobeXD-9ACD32?style=flat-square&logo=AdobeXD&logoColor=white"/></a>
   <br>
