@@ -3,7 +3,7 @@
   
   ### 🌱 Introduce Myself 🌱
   I'm a student studying at Soongsil univ. Computer Science & Engineering. <br>
-  I'm focusing on **WEB Front-end & Back-end + UI/UX design + system programming.** <br>
+  I'm focusing on **WEB Front-end & Back-end + UI/UX design**. <br>
   I want to be a developer who makes imagination in everyday life a reality.  <br>
   I hope that a more convenient world will be created from there. <br>
   <br><br>
@@ -17,18 +17,18 @@
   <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>
   <br>
-  **Web Front-end :**
+  **Web Front-End :**
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=React&logoColor=white"/></a><br>
+  **Web Back-End :**
+  <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Spring-66CDAA?style=flat-square&logo=Spring&logoColor=white"/></a><br>
   **UI/UX Design :**
   <img src="https://img.shields.io/badge/Figma-DC143C?style=flat-square&logo=Figma&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AdobeXD-9ACD32?style=flat-square&logo=AdobeXD&logoColor=white"/></a>
   <br>
-  **Framework :**
-  <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Spring-66CDAA?style=flat-square&logo=Spring&logoColor=white"/></a><br>
   **Tool & etc. :**
   <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-226633?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
@@ -40,8 +40,13 @@
   <img src="https://img.shields.io/badge/Notion-0B38DE?style=flat-square&logo=Notion&logoColor=white"/></a>
   <br><br>
   
-  ### 👩🏻‍💻 Portfolio 👩🏻‍💻
-  ### [Yoo-Jimin's portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)
+  ### 👩🏻‍💻 Experience & Belong to... 👩🏻‍💻
+  - Soongsil univ. Computer Science Engineering & ICT Distribution logistics (2019.03 - 2024.02)
+  - Likelion 9th Member (2021.03 - 2021.12)
+  - Likelion SSU 10th Manager Team & Front-End leader (2022.01 - 2022.12)
+  - Google Developer Student Club(GDSC) SSU Web/Mobile Team (2021.09 - 2022.08)
+  - Projectlion The Origin PGL - Java Spring Boot (2022.01 - 2022.04)
+  - portfolio : [Yoo-Jimin's portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)
   <br><br>
 
   ### 📧 Contact Me 📧
@@ -53,7 +58,6 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-jimin127)](https://github.com/yoo-jimin127/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-jimin127&layout=compact&theme=dracula)](https://github.com/metleeha)
   <br>
   
   
