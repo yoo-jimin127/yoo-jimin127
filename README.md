@@ -49,6 +49,18 @@
   - portfolio : [Yoo-Jimin's portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)
   <br><br>
 
+### 🏆 Awards 🏆
+|일자|대회명|수상|
+|---|---|---|
+|2021.06|제 5회 정부혁신제안 끝장 개발대회|우수상|
+|2021.09|숭실대학교 IT대학 컴퓨터학부 소프트웨어 공모전|학장상(금상)|
+|2021.09|멋쟁이 사자처럼 2021 수도권 연합 해커톤|대상(1위)|
+|2019.12|숭실대학교 기업가 정신과 행동 피칭데이|은상|
+|2021.01|숭실대학교 총학생회 멘토링|우수 멘토|
+|2021.02|숭실대학교 융합특성화자유전공학부 IT대학 전공멘토링|우수 멘토|
+
+<br>
+
   ### 📧 Contact Me 📧
   <a href="https://blog.naver.com/dbwlals9936" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="dbwlals9936@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
