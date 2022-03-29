@@ -12,10 +12,10 @@
  ### 🔨 Tech Stack 🔨
    #### Languages & Tools that I used ...
    **Programming Language :**
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-6BB5FA?style=flat-square&logo=cplusplus&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-6BB5FA?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=python&logoColor=white"/>
   <br>
   **Web Front-End :**
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -41,13 +41,16 @@
   <br><br>
   
   ### 👩🏻‍💻 Experience & Belong to... 👩🏻‍💻
-  - Soongsil univ. Computer Science Engineering & ICT Distribution logistics (2019.03 - 2024.02)
-  - Likelion 9th Member (2021.03 - 2021.12)
-  - Likelion SSU 10th Manager Team & Front-End leader (2022.01 - 2022.12)
-  - Google Developer Student Club(GDSC) SSU Web/Mobile Team (2021.09 - 2022.08)
-  - Projectlion The Origin PGL - Java Spring Boot (2022.01 - 2022.04)
-  - portfolio : [Yoo-Jimin's portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)
-  <br><br>
+  
+|기간|활동명|
+|---|---|
+|2019.03 - 2024.02|Soongsil univ. Computer Science Engineering & ICT Distribution logistics|
+|2021.03 - 2021.12|Likelion SSU 9th Member|
+|2022.01 - 2022.12|Likelion SSU 10th Manager Team & Front-End leader|
+|2021.09 - 2022.08|Google Developer Student Club(GDSC) SSU Web/Mobile Team|
+|2022.01 - 2022.04|Projectlion The Origin PGL(Peer Group Leader) - Java Spring Boot|
+
+ <br>
 
 ### 🏆 Awards 🏆
 |일자|대회명|수상|
@@ -63,6 +66,7 @@
 <br>
 
   ### 📧 Contact Me 📧
+  - **portfolio : [Yoo-Jimin's portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)** <br><br>
   <a href="https://blog.naver.com/dbwlals9936" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="dbwlals9936@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="dbwlals9936@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
