@@ -39,12 +39,14 @@
 |---|---|
 |2019.03 - 2024.02|숭실대학교 컴퓨터학부 주전공 & ICT 유통물류 융합전공|
 |2021.03 - 2021.12|멋쟁이사자처럼 SSU 9기 멤버|
-|2022.01 - 2022.12|멋쟁이사자처럼 SSU 10기 운영진 & Front-End 파트장|
-|2021.09 - 2022.08|Google Developer Student Club(GDSC) SSU Web/Mobile 멤버|
+|2022.01 - 2022.12|멋쟁이사자처럼 SSU 10기 운영진 & Front-End Part Lead|
+|2021.09 - 2022.08|Google Developer Student Club(GDSC) SSU Web/Mobile Member|
 |2022.01 - 2022.04|ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot|
-|2022.05 - 2022.08|Nexon Project MOD 운영진 & 기획단|
+|2022.05 - 2022.08|Nexon MSW 운영진 & 기획단|
 |&emsp;&emsp; 2022.05|아라고등학교 SW 특강 강사|
 |&emsp;&emsp; 2022.07|작전여자고등학교 Python & Data Analysis 강사|
+|2022.09 - 2022.11|Nexon MSW 슈퍼해커톤 기획단|
+|2022.09 - 2023.08|Google Developer Student Club(GDSC) SSU Web/Mobile Core Member|
 
  <br>
 
