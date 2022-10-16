@@ -1,11 +1,19 @@
   <div align="center">
   
- ### 안녕하세요, 유지민입니다. 👋
+ ### 안녕하세요, FE 개발자 유지민입니다. 👋
   제 깃허브를 방문해주셔서 감사합니다. <br>
   네트워킹을 통해 함께 성장하는 개발 문화를 지향하며 가치있는 지식을 공유하려 노력합니다 :) <br>
   <br>
- 
-    
+  
+### 👩🏻‍💻 Experiences 👩🏻‍💻
+ Imagine Factory Front-End 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
+ 스타트업 Jesus Fingers UI/UX 디자이너 & FE 보조 개발 `(2021.09 - 2021.12)`   
+ 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
+ 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
+ Nexon MSW Supporters Hackathon 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
+ Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
+<br>
+
  ### 🔨 Tech Stack 🔨
  **Language :** <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=#00599C"/> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=eclipse&logoColor=#339933"/> <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=#8F79FF"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=#1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=#FFD700"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=#FFD700"/></a>
   <br>
@@ -28,15 +36,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a><br>
   <br>
   
-### 👩🏻‍💻 Experiences 👩🏻‍💻
- Imagine Factory Front-End 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
- 스타트업 Jesus Fingers UI/UX 디자이너 & FE 보조 개발 `(2021.09 - 2021.12)`   
- 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
- 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
- Nexon MSW Supporters Hackathon 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
- Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
-<br>
-
   ### 📧 Contact 📧
   **자세한 내용은 [portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
   <a href="https://blog.naver.com/dbwlals9936" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
