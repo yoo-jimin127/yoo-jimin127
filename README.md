@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=#A34F26"/></a>
   <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=AndroidStudio&logoColor=#226633"/></a>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=#FFA926"/></a>
-  <img src="https://img.shields.io/badge/Amazon AWS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a><br>
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a><br>
   <br>
   
   ### 📧 Contact 📧
