@@ -12,7 +12,7 @@
  - 스타트업 Jesus Fingers UI/UX 디자이너 & FE 보조 개발 `(2021.09 - 2021.12)`   
  - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
  - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
- - Google Developer Student Club(GDSC) SSU Web/Mobile Core Member `(2022.09 - 2023.08)`   
+ - Google Developer Student Clubs Soongsil Web/Mobile Core Member `(2022.09 - 2023.08)`   
  - 멋쟁이사자처럼 SSU 10기 운영진 & Front-End Part Lead `(2022.01 - 2022.12)`    
  - Nexon MSW Supporters Hackathon 운영진 & 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
  - Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
