@@ -10,6 +10,7 @@
 **🎨WEB Front-End Developer**    
  - Imagine Factory Front-End 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
  - 스타트업 Jesus Fingers UI/UX 디자이너 & FE 보조 개발 `(2021.09 - 2021.12)`   
+ - 작전여자고등학교 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
  - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
  - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
  - Google Developer Student Clubs Soongsil Web/Mobile Core Member `(2022.09 - 2023.08)`   
@@ -43,15 +44,14 @@
   
   ### 📧 Contact 📧
   **자세한 내용은 [portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
-  <a href="https://blog.naver.com/dbwlals9936" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
+    <a href="https://velog.io/@dev_jiminn" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://blog.naver.com/dbwlals9936" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="dbwlals9936@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="dbwlals9936@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://github.com/yoo-jimin127" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
-  <br><br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   <br>
   
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
   
     
 </div>
