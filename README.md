@@ -52,6 +52,5 @@
   <br>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
