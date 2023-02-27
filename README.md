@@ -45,7 +45,7 @@ const jimin = {
     intersting: ["Clean Code", "Refactoring", "Design Pattern", "Frameworkless FE Development"],
 };
 ```
-
+<br>
   
   ### 📧 Contact 📧
   **자세한 내용은 [portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
