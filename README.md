@@ -24,6 +24,28 @@
  - Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
  - ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot `(2022.01 - 2022.04)`
 <br>
+
+### ⚒️ Tech Stack ⚒️
+```js
+const jimin = {
+    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C", "C++"],
+    technologies: {
+        frontEnd: {
+            framework: ["React", "Angular", "Vue", "React Native"],
+            state: ["Redux", "Redux ToolKit", "Recoil", "React-Query"],
+            style: ["Styled-Component", "Emotion"],
+            etc: ["MSW", "Storybook"],
+        },
+        backEnd: {
+            server: ["Django", "Java Spring Boot"],
+            db: ["MySQL", "SQLite"],
+        },
+        etc: ["Git", "System Programming(Linux)"],
+    },
+    intersting: ["Clean Code", "Refactoring", "Design Pattern", "Frameworkless FE Development"],
+};
+```
+
   
   ### 📧 Contact 📧
   **자세한 내용은 [portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
@@ -33,8 +55,8 @@
   <a href="dbwlals9936@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://github.com/yoo-jimin127" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
   <br>
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
+ 
   [![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
 </div>
 
