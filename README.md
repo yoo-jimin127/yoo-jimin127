@@ -42,7 +42,7 @@ const jimin = {
         },
         etc: ["Git", "System Programming(Linux)"],
     },
-    intersting: ["Clean Code", "Refactoring", "Design Pattern", "Frameworkless FE Development"],
+    interesting: ["Clean Code", "Refactoring", "Design Pattern", "Frameworkless FE Development"],
 };
 ```
 <br>
