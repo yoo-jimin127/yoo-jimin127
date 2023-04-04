@@ -15,6 +15,7 @@
 **🎨WEB Front-End Developer**    
  - Imagine Factory Front-End 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
  - 스타트업 Jesus Fingers UI/UX 디자이너 & FE 보조 개발 `(2021.09 - 2021.12)`   
+ - Kakao X Goorm 9oormthon 프론트엔드 개발자 `(2023.03.28 - 2023.03.31)`
  - 작전여자고등학교 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
  - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
  - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
