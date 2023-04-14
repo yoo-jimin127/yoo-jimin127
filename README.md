@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Jimin,+the+FE+Developer💻;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=가치를+코드로+설계하는,;협업과+소통을+통해+날마다+성장하는,;WEB+FE+개발자+유지민입니다+💻✨&center=true&size=20">
   </a>
 </h1>
 
@@ -13,12 +13,14 @@
 ### 👩🏻‍💻 Experiences 👩🏻‍💻
 **💻 Soongsil Univ. Computer Science and Engineering**    
 **🎨WEB Front-End Developer**    
- - Imagine Factory Front-End 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
- - 스타트업 Jesus Fingers UI/UX 디자이너 & FE 보조 개발 `(2021.09 - 2021.12)`   
- - Kakao X Goorm 9oormthon 프론트엔드 개발자 `(2023.03.28 - 2023.03.31)`
+ - Imagine Factory Full Stack 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
+ - 스타트업 Jesus Fingers UI/UX 디자이너 & FE 개발자 `(2021.09 - 2021.12)`   
+ - Kakao X Goorm 9oormthon Front-End 개발자 `(2023.03.28 - 2023.03.31)`  
+ - Google Solution Challenge 2023 [SSUNG DELIVERY] FE 개발자 `(2023.01 - 2023.03)`   
  - 작전여자고등학교 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
  - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
  - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
+ - 숭실대학교 중앙동아리 YOURSSU Web Front-End Part `(2023.03 ~)`   
  - Google Developer Student Clubs Soongsil Web/Mobile Core Member `(2022.09 - 2023.08)`   
  - 멋쟁이사자처럼 SSU 10기 운영진 & Front-End Part Lead `(2022.01 - 2022.12)`    
  - Nexon MSW Supporters Hackathon 운영진 & 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
