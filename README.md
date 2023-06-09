@@ -31,11 +31,11 @@
 ### ⚒️ Tech Stack ⚒️
 ```js
 const jimin = {
-    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C", "C++"],
+    code: ["Typescript", "Javascript", "HTML", "CSS", "Python", "Java", "C", "C++"],
     technologies: {
         frontEnd: {
             framework: ["React", "Angular", "Vue", "React Native"],
-            state: ["Redux", "Redux ToolKit", "Recoil", "React-Query"],
+            state: ["Redux", "Jotai", "Recoil", "React-Query"],
             style: ["Styled-Component", "Emotion"],
             etc: ["MSW", "Storybook"],
         },
@@ -51,8 +51,9 @@ const jimin = {
 <br>
   
   ### 📧 Contact 📧
-  **자세한 내용은 [portfolio 🐣](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
-    <a href="https://velog.io/@dev_jiminn" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  **자세한 내용은 [portfolio](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
+  <a href="https://www.linkedin.com/in/yoo-jimin127/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://velog.io/@dev_jiminn" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://blog.naver.com/dbwlals9936" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="dbwlals9936@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="dbwlals9936@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -62,4 +63,4 @@ const jimin = {
   [![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
 </div>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-jimin127&count_bg=%2300D0FF&title_bg=%23CACACA&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
