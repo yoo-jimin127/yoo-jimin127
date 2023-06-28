@@ -5,52 +5,35 @@
   </a>
 </h1>
 
- ### 안녕하세요, 유지민입니다. 👋
+ ## 👋 Jimin Yoo (Web Front-End Developer)
   제 깃허브를 방문해주셔서 감사합니다. <br>
   네트워킹을 통해 함께 성장하는 개발 문화를 지향하며 가치있는 지식을 공유하려 노력합니다 :) <br>
-  <br>
   
-### 👩🏻‍💻 Experiences 👩🏻‍💻
+## 👩🏻‍💻 Experiences
 **💻 Soongsil Univ. Computer Science and Engineering**    
-**🎨WEB Front-End Developer**    
+**🎨 WEB Front-End Developer**    
  - Imagine Factory Full Stack 개발자 & UI/UX 디자이너 `(2022.05 - 2022.09)`   
  - 스타트업 Jesus Fingers UI/UX 디자이너 & FE 개발자 `(2021.09 - 2021.12)`   
- - Kakao X Goorm 9oormthon Front-End 개발자 `(2023.03.28 - 2023.03.31)`  
- - Google Solution Challenge 2023 [SSUNG DELIVERY] FE 개발자 `(2023.01 - 2023.03)`   
- - 작전여자고등학교 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
- - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
- - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`   
- - 숭실대학교 중앙동아리 YOURSSU Web Front-End Part `(2023.03 ~)`   
+ - Kakao X Goorm 9oormthon Front-End 개발자 `(2023.03.28 - 2023.03.31)`
+ - pre-startup O'MZ Front-End 개발자 `(2023.01 ~)`       
+ - Google Solution Challenge 2023 [SSUNG DELIVERY] Front-End 개발자 `(2023.01 - 2023.03)`   
  - Google Developer Student Clubs Soongsil Web/Mobile Core Member `(2022.09 - 2023.08)`   
- - 멋쟁이사자처럼 SSU 10기 운영진 & Front-End Part Lead `(2022.01 - 2022.12)`    
+ - 멋쟁이사자처럼 SSU 10기 운영진 & Front-End Part Lead `(2022.01 - 2022.12)`
+ - 숭실대학교 중앙동아리 YOURSSU Web Front-End Part `(2023.03 ~)` 
  - Nexon MSW Supporters Hackathon 운영진 & 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
  - Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
  - ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot `(2022.01 - 2022.04)`
-<br>
 
-### ⚒️ Tech Stack ⚒️
-```js
-const jimin = {
-    code: ["Typescript", "Javascript", "HTML", "CSS", "Python", "Java", "C", "C++"],
-    technologies: {
-        frontEnd: {
-            framework: ["React", "Angular", "Vue", "React Native"],
-            state: ["Redux", "Jotai", "Recoil", "React-Query"],
-            style: ["Styled-Component", "Emotion"],
-            etc: ["MSW", "Storybook"],
-        },
-        backEnd: {
-            server: ["Django", "Java Spring Boot"],
-            db: ["MySQL", "SQLite"],
-        },
-        etc: ["Git", "System Programming(Linux)"],
-    },
-    interesting: ["Clean Code", "Refactoring", "Design Pattern", "Frameworkless FE Development"],
-};
-```
-<br>
-  
-  ### 📧 Contact 📧
+## 🎙️ Lecture 
+ - 작전여자고등학교 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
+ - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
+ - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`
+ - 아라고등학교 모의국회 과학기술정보통신부 퍼실리테이터 `(2022.07)`
+
+## 📚 Contribution
+- [Vercel - Next.js kor 공식 문서 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06)`    
+
+## 📧 Contact
   **자세한 내용은 [portfolio](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
   <a href="https://www.linkedin.com/in/yoo-jimin127/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://velog.io/@dev_jiminn" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
