@@ -25,13 +25,15 @@
  - ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot `(2022.01 - 2022.04)`
 
 ## 🎙️ Lecture 
- - 작전여자고등학교 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
+ - 작전여자고등학교 컴퓨터 언어 활용 진로캠프 WEB(HTML, CSS, Javascript) 강사 `(2023.07)`   
+ - 작전고등학교 모의국회 과학기술정보통신부 퍼실리테이터 `(2022.12)`  
+ - 작전여자고등학교 4차산업 캠프 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
  - 아라고등학교 SW 특강 강사(WEB & ML) `(2022.05)`   
  - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`
  - 아라고등학교 모의국회 과학기술정보통신부 퍼실리테이터 `(2022.07)`
 
 ## 📚 Contribution
-- [Vercel - Next.js kor 공식 문서 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06)`    
+- [Vercel - Next.js kor 공식 문서 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06 ~)`    
 
 ## 📧 Contact
   **자세한 내용은 [portfolio](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
