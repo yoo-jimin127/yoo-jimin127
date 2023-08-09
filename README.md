@@ -24,7 +24,7 @@
  - Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
  - ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot `(2022.01 - 2022.04)`
 
-## 🎙️ Lecture 
+## 🎙️ Lectures
  - 작전여자고등학교 컴퓨터 언어 활용 진로캠프 WEB(HTML, CSS, Javascript) 강사 `(2023.07)`   
  - 작전고등학교 모의국회 과학기술정보통신부 퍼실리테이터 `(2022.12)`  
  - 작전여자고등학교 4차산업 캠프 WEB(HTML, CSS, Javascript) 강사 `(2022.12)`   
@@ -32,8 +32,18 @@
  - 작전여자고등학교 Python & Data Analysis 강사 `(2022.07)`
  - 아라고등학교 모의국회 과학기술정보통신부 퍼실리테이터 `(2022.07)`
 
-## 📚 Contribution
-- [Vercel - Next.js kor 공식 문서 번역](https://github.com/Nextjs-kr/Nextjs.kr) `(2023.06 ~)`    
+## 🏆 Awards
+- 숭실대학교 IT대학 컴퓨터학부 소프트웨어 공모전 대상(숭실대학교 총장상) `(2023.08)`
+- Kakao X Goorm 구름톤 5기 최우수상 `(2023.03)`
+- 제 5회 정부혁신제안 끝장 개발대회 우수상 `(2021.06)`
+- 숭실대학교 IT대학 컴퓨터학부 소프트웨어 공모전 금상 (IT대학 학장상) `(2021.09)`
+- 멋쟁이 사자처럼 2021 수도권 연합 해커톤 대상(1위) `(2021.09)`
+- 숭실대학교 기업가 정신과 행동 피칭데이 은상 `(2019.12)`
+- 숭실대학교 총학생회 멘토링 우수 멘토 선정 `(2021.01)`
+- 숭실대학교 융합특성화자유전공학부 IT대학 전공멘토링 우수 멘토 선정 `(2021.02)`
+
+## 📚 Contributions
+- [Vercel - Next.js kor 공식 문서 번역](https://github.com/Nextjs-kr/Nextjs.kr) Contributor & Maintainer `(2023.06 ~)`
 
 ## 📧 Contact
   **자세한 내용은 [portfolio](https://www.notion.so/Yoo-Ji-Min-3fb83bffb6664817b0b79f761d6f1bae)에 있습니다!** <br><br>
