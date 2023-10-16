@@ -56,6 +56,9 @@
   <br>
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=yoo-jimin127&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwlals9936)](https://solved.ac/dbwlals9936/)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
 </div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-jimin127&count_bg=%2300D0FF&title_bg=%23CACACA&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+
