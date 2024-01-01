@@ -2,10 +2,10 @@
   
 **💻 WEB Front-End Developer**     
 **🎓 Soongsil Univ. Computer Science and Engineering**     
- - Imagine Factory Full Stack 개발 인턴 `(2022.05 - 2022.09)`   
- - Kakao X Goorm 구름톤(9oormthon in Jeju) 5기 Front-End 개발자 `(2023.03)`
+ - Imagine Factory Full Stack 개발 인턴 `(2022.05 - 2022.09)`
  - 인천 소재 고교 대상 프로그래밍 특강 강사(Web, Data analysis) `(2022.07~)` 
- - pre-startup Commér Front-End 개발자 `(2023.01 ~)`
+ - Kakao X Goorm 구름톤(9oormthon in Jeju) 5기 Front-End 개발자 `(2023.03)`
+ - pre-startup termterm: 텀텀 Front-End 개발자 `(2023.01 ~)`
  - 스타트업 Jesus Fingers UI/UX 디자이너 & Front-End 개발자 `(2021.09 - 2021.12)`   
  - Google Solution Challenge 2023 Ssung Delivery Front-End 개발자 `(2023.01 - 2023.03)`   
  - Google Developer Student Clubs Soongsil Web/Mobile Core Member (1st-2nd) `(2022.09 - 2023.08)`
