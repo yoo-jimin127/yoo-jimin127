@@ -1,7 +1,12 @@
 # 👩🏻‍💻 Jimin's Github
   
 **💻 WEB Front-End Developer**     
-**🎓 Soongsil Univ. Computer Science and Engineering**     
+**🎓 Soongsil Univ. Computer Science and Engineering Bachelor's Degree**     
+<br>
+  소프트웨어를 매개로 상상을 현실로 만드는 유지민입니다. <br>
+  함께 성장하는 개발 문화의 실현을 위해 강의 및 개발 커뮤니티의 스피커로 참여하며 가치있는 지식을 공유하고 있습니다 :) <br>
+
+## 🚀 Experiences
  - Imagine Factory Full Stack 개발 인턴 `(2022.05 - 2022.09)`
  - 인천 소재 고교 대상 프로그래밍 특강 강사(Web, Data analysis) `(2022.07~)` 
  - Kakao X Goorm 구름톤(9oormthon in Jeju) 5기 Front-End 개발자 `(2023.03)`
@@ -15,15 +20,7 @@
  - Nexon MSW Supporters Hackathon 운영진 & 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
  - Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
  - ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot `(2022.01 - 2022.04)`
-<br>
 
-<details>
-<summary><strong>🍀 Details about yoo-jimin127 🍀 </strong></summary>
-<br>
-  소프트웨어를 매개로 상상을 현실로 만드는 유지민입니다. <br>
-  함께 성장하는 개발 문화의 실현을 위해 강의 및 개발 커뮤니티의 스피커로 참여하며 가치있는 지식을 공유하고 있습니다 :) <br>
-<br>
-  
 ## 🎙️ Lectures
  - 작전여자고등학교 알고리즘 기초 활용 특강 `(2023.12)`
  - 아라고등학교 데이터 분석 캠프 `(2023.11)`
@@ -59,9 +56,6 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwlals9936)](https://solved.ac/dbwlals9936/)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dev_jiminn)](https://velog.io/@dev_jiminn) 
-  
-</details>
-<br>
 
   <a href="https://www.linkedin.com/in/yoo-jimin127/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="dbwlals9936@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
