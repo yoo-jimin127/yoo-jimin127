@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jimin's Github
   
-**💻 WEB Front-End Developer**     
+**💻 WEB Developer**     
 **🎓 Soongsil Univ. Computer Science and Engineering Bachelor's Degree**     
 <br>
   소프트웨어를 매개로 상상을 현실로 만드는 유지민입니다. <br>
