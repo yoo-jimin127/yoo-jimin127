@@ -7,16 +7,18 @@
   함께 성장하는 개발 문화의 실현을 위해 강의 및 개발 커뮤니티의 스피커로 참여하며 가치있는 지식을 공유하고 있습니다 :) <br>
 
 ## 🚀 Experiences
+ - NH농협은행 중앙본부 IT부문 IT시스템부 IT클라우드운영팀 PaaS계 계장 `(2024.12~)`
+ - TmaxCloud 개방형OS R&D 연구원 `(2024.08 - 2024.12)`
  - Imagine Factory Full Stack 개발 인턴 `(2022.05 - 2022.09)`
- - 인천 소재 고교 대상 프로그래밍 특강 강사(Web, Data analysis) `(2022.07~)` 
+ - 인천 소재 고교 대상 프로그래밍 특강 강사(Web, Data analysis) `(2022.07 - 2024.12)` 
  - Kakao X Goorm 구름톤(9oormthon in Jeju) 5기 Front-End 개발자 `(2023.03)`
- - pre-startup termterm: 텀텀 Front-End 개발자 `(2023.01 ~)`
+ - pre-startup termterm: 텀텀 Front-End 개발자 `(2023.01 - 2024.06)`
  - 스타트업 Jesus Fingers UI/UX 디자이너 & Front-End 개발자 `(2021.09 - 2021.12)`   
  - Google Solution Challenge 2023 Ssung Delivery Front-End 개발자 `(2023.01 - 2023.03)`   
  - Google Developer Student Clubs Soongsil Web/Mobile Core Member (1st-2nd) `(2022.09 - 2023.08)`
  - 숭실대학교 IT동아리 연합 컨퍼런스 2023 SSU DEVCON 기획/운영 총괄 `(2023.09)`
  - 멋쟁이사자처럼 SSU 10기 운영진 & Front-End Part Lead (9th-10th) `(2022.01 - 2022.12)`
- - 숭실대학교 중앙동아리 YOURSSU Web Front-End Part `(2023.03 ~)` 
+ - 숭실대학교 중앙동아리 YOURSSU Web Front-End Part `(2023.03 - 2024.02)` 
  - Nexon MSW Supporters Hackathon 운영진 & 기획단 기본 교안 제작팀 `(2022.05 - 2022.08)`   
  - Nexon MSW Super Hackathon 기획단 실습 교안 제작팀 `(2022.09 - 2022.11)`   
  - ProjectLion The Origin PGL(Peer Group Leader) - Java Spring Boot `(2022.01 - 2022.04)`
